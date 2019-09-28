@@ -1,1 +1,3 @@
-console.log('Hello World =D');
+let number = 1
+
+console.log(number)
